@@ -53,6 +53,7 @@ function App (){
     <div className="container">
       <div className="row mt-5">
           <div className="mb-5">
+            <h3> Name of your favorite actor</h3>
             <Input onChange={handleChange}/>
           </div>
           {/* //  check here */}

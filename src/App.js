@@ -97,7 +97,7 @@ function App (){
         </Typography>
       </CardContent>
       <CardActions>
-        <Button size="small">Show more</Button>
+        {/* <Button size="small">Show more</Button> */}
       </CardActions>
     </Card>
          
